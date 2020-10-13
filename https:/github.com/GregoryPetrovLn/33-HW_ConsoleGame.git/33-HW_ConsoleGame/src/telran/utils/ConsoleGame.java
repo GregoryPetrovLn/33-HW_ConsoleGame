@@ -15,6 +15,7 @@ public class ConsoleGame {
 	ArrayList<String> listResults = new ArrayList<>();
 	int cowsAndBulls[] = new int[2]; // pos 0 - cow /// pos 1 - bull
 
+	
 	public void game() throws IOException {
 		int compNumber; 
 		int userNumber; 
